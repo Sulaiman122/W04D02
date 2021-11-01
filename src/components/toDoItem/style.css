@@ -1,0 +1,22 @@
+li{
+    background-color: white;
+    margin: 1rem 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 0.5rem;
+}
+
+.edit{
+    font-size: 1rem;
+}
+
+.remove:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.edit:hover{
+    color: green;
+    cursor: pointer;
+}
